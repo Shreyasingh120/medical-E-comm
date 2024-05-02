@@ -2,7 +2,7 @@
 
 # Project Initial Report
 
-## Amit Gupta & 12112447
+## Shreya Singh
 
 ### Project Name: MediSell
 
